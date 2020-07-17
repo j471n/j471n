@@ -19,10 +19,11 @@
   <a href="https://www.linkedin.com/in/jatin-sharma-8835641b2/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:jatinsharma8669@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/_empireofemperor/"><img src="https://img.shields.io/badge/instagram-#e1306c.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a style="width:200px; height:50px;" href="https://www.instagram.com/" target="_blank">
+  <p style="width:200px; height:50px;"><a href="https://www.instagram.com/" target="_blank">
             <img  src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/04/instagram-logo-796x398.png"> </a>
 </p>
+</p>
+  
 
 
 

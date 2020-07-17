@@ -21,7 +21,7 @@
   <a href="https://www.instagram.com/_empireofemperor/"><img src="https://img.shields.io/badge/instagram-#e1306c.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   
   <a href="https://www.instagram.com/" target="_blank">
-            <img style="width:200px; height:50px;" src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/04/instagram-logo-796x398.png"> </a>
+            <img style="width:200px; height:5px;" src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/04/instagram-logo-796x398.png"> </a>
 </p>
 
 

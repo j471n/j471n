@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.twitter.com/empireofemperor"><img scr="https://imgur.com/gallery/bzGhJnR"></a>
+  <a href="https://www.twitter.com/empireofemperor"><img scr="https://i.imgur.com/zGS0sLQ.png"></a>
 
 </p>
 

@@ -8,4 +8,9 @@
   
 </p>
 
+<p align="center">
+  <a href="https://www.twitter.com/empireofemperor"><img scr="https://imgur.com/gallery/bzGhJnR"></a>
+
+</p>
+
 

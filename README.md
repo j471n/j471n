@@ -5,13 +5,19 @@
 
 <p align="center">
   <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br><br>
-  <samp> I'm a software developer from Uttar Pradesh, India. Wanna be a Full Stack developer. Passioniate towards learning, Reading, coding and Love sharing my knowledge with others.
+  <samp> I'm a software developer from Uttar Pradesh, India. Wanna be a Full Stack developer. Passioniate towards learning, Reading, coding. And I would Love share my knowledge with others.
   </samp>
   <br>
   
 </p>
 
+
+
+<h1 align="center">Contact me</h1>
+
 <p align="center" >
+  
+
    <a href="https://www.twitter.com/empireofemperor/"><img src="https://i.imgur.com/zGS0sLQ.png" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
    <a href="https://www.instagram.com/_empireofemperor/"><img src="https://img.pngio.com/circle-colored-gradient-instagram-media-social-social-media-icon-instagram-circle-logo-png-512_512.png" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
    <a href="https://www.linkedin.com/in/jatin-sharma-8835641b2/"><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/linkedin-512.png" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;

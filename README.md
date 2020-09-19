@@ -9,19 +9,6 @@
   
 </p>
 
-
-<h2 align='center'>Currently Learning - </h2>
-
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> &nbsp;&nbsp;&nbsp;
-</p>
-<br>
-
-
-
-
-
-
 <h2 align='center'>Programming Languages :computer:</h2>
 
 <p align="center">

@@ -18,6 +18,7 @@
   <img src="https://img.icons8.com/color/50/000000/css3.png"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/50/000000/python.png"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios-filled/45/000000/database.png"/>&nbsp;&nbsp;&nbsp;
   
   <br>
 </p>
@@ -27,7 +28,8 @@
 
 <p align= "center">
   <img src="https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/52/000000/git.png"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/powershell.png"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/ios/50/000000/atom-editor.png"/>&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1200px-Android_Studio_icon.svg.png" width="50" height="50" />&nbsp;&nbsp;&nbsp;
   <img src="https://www.codewithc.com/wp-content/uploads/2014/08/codeblocks-featured.png" width="50" height="50" />&nbsp;&nbsp;&nbsp;

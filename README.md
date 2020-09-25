@@ -19,6 +19,7 @@
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/50/000000/python.png"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/ios-filled/45/000000/database.png"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>&nbsp;&nbsp;&nbsp;
   
   <br>
 </p>

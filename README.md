@@ -12,14 +12,16 @@
 <h2 align='center'>Programming Languages :computer:</h2>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/50/000000/c-programming.png"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/50/000000/html-5.png"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/50/000000/css3.png"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/50/000000/python.png"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/ios-filled/45/000000/database.png"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>&nbsp;&nbsp;&nbsp;
+  <img alt="C" src="https://img.icons8.com/color/50/000000/c-programming.png"/>&nbsp;&nbsp;&nbsp;
+  <img alt="C++" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>&nbsp;&nbsp;&nbsp;
+  <img alt="HTML" src="https://img.icons8.com/color/50/000000/html-5.png"/>&nbsp;&nbsp;&nbsp;
+  <img alt="CSS" src="https://img.icons8.com/color/50/000000/css3.png"/>&nbsp;&nbsp;&nbsp;
+  <img alt="Javascript" src="https://img.icons8.com/color/48/000000/javascript.png"/>&nbsp;&nbsp;&nbsp;
+  <img alt="Python" src="https://img.icons8.com/color/50/000000/python.png"/>&nbsp;&nbsp;&nbsp;
+  <img alt="Sql" src="https://img.icons8.com/ios-filled/45/000000/database.png"/>&nbsp;&nbsp;&nbsp;
+  <img alt="Kotlin" src="https://img.icons8.com/color/48/000000/kotlin.png"/>&nbsp;&nbsp;&nbsp;
+  <img alt="Java" src="https://img.icons8.com/color/57/000000/java-coffee-cup-logo.png" />&nbsp;&nbsp;&nbsp;
+  
   
   <br>
 </p>

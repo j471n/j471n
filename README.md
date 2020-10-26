@@ -14,6 +14,7 @@
 <p align="center">
   <img title="C" src="https://img.icons8.com/color/50/000000/c-programming.png"/>&nbsp;&nbsp;&nbsp;
   <img title="C++" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>&nbsp;&nbsp;&nbsp;
+  <img title="C#" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" height="50" />&nbsp;&nbsp;&nbsp;
   <img title="HTML5" src="https://img.icons8.com/color/50/000000/html-5.png"/>&nbsp;&nbsp;&nbsp;
   <img title="CSS3" src="https://img.icons8.com/color/50/000000/css3.png"/>&nbsp;&nbsp;&nbsp;
   <img title="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png"/>&nbsp;&nbsp;&nbsp;
@@ -23,6 +24,9 @@
   <img title="Java" src="https://img.icons8.com/color/57/000000/java-coffee-cup-logo.png" />&nbsp;&nbsp;&nbsp;
   
   
+  
+  
+ 
   <br>
 </p>
 

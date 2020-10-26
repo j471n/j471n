@@ -12,15 +12,15 @@
 <h2 align='center'>Programming Languages :computer:</h2>
 
 <p align="center">
-  <img alt="C" src="https://img.icons8.com/color/50/000000/c-programming.png"/>&nbsp;&nbsp;&nbsp;
-  <img alt="C++" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>&nbsp;&nbsp;&nbsp;
-  <img alt="HTML" src="https://img.icons8.com/color/50/000000/html-5.png"/>&nbsp;&nbsp;&nbsp;
-  <img alt="CSS" src="https://img.icons8.com/color/50/000000/css3.png"/>&nbsp;&nbsp;&nbsp;
-  <img alt="Javascript" src="https://img.icons8.com/color/48/000000/javascript.png"/>&nbsp;&nbsp;&nbsp;
-  <img alt="Python" src="https://img.icons8.com/color/50/000000/python.png"/>&nbsp;&nbsp;&nbsp;
-  <img alt="Sql" src="https://img.icons8.com/ios-filled/45/000000/database.png"/>&nbsp;&nbsp;&nbsp;
-  <img alt="Kotlin" src="https://img.icons8.com/color/48/000000/kotlin.png"/>&nbsp;&nbsp;&nbsp;
-  <img alt="Java" src="https://img.icons8.com/color/57/000000/java-coffee-cup-logo.png" />&nbsp;&nbsp;&nbsp;
+  <img title="C" src="https://img.icons8.com/color/50/000000/c-programming.png"/>&nbsp;&nbsp;&nbsp;
+  <img title="C++" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>&nbsp;&nbsp;&nbsp;
+  <img title="HTML5" src="https://img.icons8.com/color/50/000000/html-5.png"/>&nbsp;&nbsp;&nbsp;
+  <img title="CSS3" src="https://img.icons8.com/color/50/000000/css3.png"/>&nbsp;&nbsp;&nbsp;
+  <img title="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png"/>&nbsp;&nbsp;&nbsp;
+  <img title="Python 3" src="https://img.icons8.com/color/50/000000/python.png"/>&nbsp;&nbsp;&nbsp;
+  <img title="SQL" src="https://img.icons8.com/ios-filled/45/000000/database.png"/>&nbsp;&nbsp;&nbsp;
+  <img title="Kotlin" src="https://img.icons8.com/color/48/000000/kotlin.png"/>&nbsp;&nbsp;&nbsp;
+  <img title="Java" src="https://img.icons8.com/color/57/000000/java-coffee-cup-logo.png" />&nbsp;&nbsp;&nbsp;
   
   
   <br>
@@ -30,15 +30,14 @@
  
 
 <p align= "center">
-  <img src="https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/52/000000/git.png"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/powershell.png"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/ios/50/000000/atom-editor.png"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1200px-Android_Studio_icon.svg.png" width="50" height="50" />&nbsp;&nbsp;&nbsp;
-  <img src="https://www.codewithc.com/wp-content/uploads/2014/08/codeblocks-featured.png" width="50" height="50" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://pbs.twimg.com/media/DJnkUqqVoAAFGQO.png" width="50" height="50" />&nbsp;&nbsp;&nbsp;
+  <img title="VS Code" src="https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png"/>&nbsp;&nbsp;&nbsp;
+  <img title="Git" src="https://img.icons8.com/color/52/000000/git.png"/>&nbsp;&nbsp;&nbsp;
+  <img title="Atom" src="https://img.icons8.com/ios/50/000000/atom-editor.png"/>&nbsp;&nbsp;&nbsp;
+  <img title="Android Studio" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1200px-Android_Studio_icon.svg.png" width="50" height="50" />&nbsp;&nbsp;&nbsp;
+  <img title="Codeblocks" src="https://www.codewithc.com/wp-content/uploads/2014/08/codeblocks-featured.png" width="50" height="50" />&nbsp;&nbsp;&nbsp;
+  <img title="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>&nbsp;&nbsp;&nbsp;
+  <img title="Photoshop" src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png"/>&nbsp;&nbsp;&nbsp;
+  <img title="Sublime Text 3" src="https://pbs.twimg.com/media/DJnkUqqVoAAFGQO.png" width="50" height="50" />&nbsp;&nbsp;&nbsp;
   </p>
 <br>
 

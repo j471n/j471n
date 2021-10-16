@@ -7,6 +7,9 @@
   </samp>
   <br>
   
+    
+  ![](https://komarev.com/ghpvc/?username=j471n&color=green&style=flat-square&label=PROFILE+VIEWS)
+    
 </p>
 
 
@@ -44,5 +47,9 @@
 
 <!-- Buy me a cup of coffee -->
 <p align="center"><a href="https://www.buymeacoffee.com/j471n"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="j471n" /></a></p>
+
+<br>
+
+
 
 

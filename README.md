@@ -48,9 +48,15 @@
   <img title="Photoshop" src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png"/>&nbsp;&nbsp;&nbsp;
   <img title="Sublime Text 3" src="https://pbs.twimg.com/media/DJnkUqqVoAAFGQO.png" width="50" height="50" />&nbsp;&nbsp;&nbsp;
 
-<!-- Most Used Language -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=j471n&show_icons=true&locale=en&layout=compact" alt="j471n" /></p>
 
+
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=j471n&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Jatin's Github Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j471n&layout=compact&theme=dark&hide_border=true" /> |
+| ------------- | ------------- |
+
+
+<!-- Most Used Language -->
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=j471n&show_icons=true&locale=en&layout=compact" alt="j471n" /></p>
+ -->
 <!-- Buy me a cup of coffee -->
 <p align="center"><a href="https://www.buymeacoffee.com/j471n"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="j471n" /></a></p>
 

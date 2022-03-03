@@ -60,8 +60,8 @@
  
  
  # Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- Dev.to:START --> 
+<!-- Dev.to:END -->
 
 
 <!-- Buy me a cup of coffee -->

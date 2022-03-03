@@ -57,6 +57,13 @@
 <!-- Most Used Language -->
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=j471n&show_icons=true&locale=en&layout=compact" alt="j471n" /></p>
  -->
+ 
+ 
+ # Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 <!-- Buy me a cup of coffee -->
 <p align="center"><a href="https://www.buymeacoffee.com/j471n"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="j471n" /></a></p>
 

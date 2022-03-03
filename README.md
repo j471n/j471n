@@ -60,7 +60,12 @@
  
  
  # Blog posts
-<!-- Dev.to:START --> 
+<!-- Dev.to:START -->
+- [Google Docs with Next.js](https://dev.to/j471n/google-docs-with-nextjs-2g0i)
+- [JavaScript Cheat Sheet that you should bookmark](https://dev.to/j471n/javascript-cheat-sheet-you-needed-2id)
+- [Notification Panel](https://dev.to/j471n/notification-panel-50p6)
+- [6 ways to center a div](https://dev.to/j471n/6-ways-to-center-a-div-5fgj)
+- [Image Slider with Vanila JS](https://dev.to/j471n/image-slider-with-vanila-js-22bf)
 <!-- Dev.to:END -->
 
 

@@ -11,30 +11,34 @@
 
 ![profile View](https://komarev.com/ghpvc/?username=j471n&color=green&style=flat-square&label=PROFILE+VIEWS)
 
-## Languages and Tools
-  
-<img title="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding:0 5px;" />
-<img title="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding:0 5px;" />
-<img title="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding:0 5px;" />
-<img title="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding:0 5px;" />
-<img title="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding:0 5px;" />
-<img title="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding:0 5px;" />
-<img title="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding:0 5px;" />
-<img title="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding:0 5px;" />
-<img title="C" width="26px" style="padding:0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img title="C++" width="26px" style="padding:0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img title="Python" width="26px" style="padding:0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img title="TailwindCSS" width="26px" style="padding:0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img title="Nextjs" width="26px" style="padding:0 5px;" src="https://imgur.com/hPofQoP.png" />
-<img title="NextAuth" width="26px" style="padding:0 5px;" src="https://next-auth.js.org/img/logo/logo-sm.png"/>
-<img title="Firebase" width="26px" style="padding:0 5px;" src="https://i.imgur.com/ySmf4g5.png" />
-<img title="Sublime Text 3" width="26px" style="padding:0 5px;" src="https://pbs.twimg.com/media/DJnkUqqVoAAFGQO.png" />                                       
-<img title="bootstrap" width="26px" style="padding:0 5px;" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>                    
-<img title="Git" width="26px" style="padding:0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img title="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" style="padding:0 5px;" />
-<img title="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" style="padding:0 5px;" /> 
+## Languages and Tools:
 
-### 📰 Recent Blogs:
+<p>
+  <img title="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img title="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img title="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img title="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img title="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img title="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img title="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img title="SQLite" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+  <img title="TailwindCSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img title="Nextjs" width="30px" src="https://imgur.com/hPofQoP.png" />
+  <img title="NextAuth" width="30px" src="https://next-auth.js.org/img/logo/logo-sm.png"/>
+  <img title="Firebase" width="30px" src="https://i.imgur.com/ySmf4g5.png" />
+  <img title="Sublime Text 3" width="30px" src="https://pbs.twimg.com/media/DJnkUqqVoAAFGQO.png" />                                       
+  <img title="bootstrap" width="30px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>                    
+  <img title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img title="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" />
+  <img title="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" /> 
+  <img title="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />       
+</p>
+
+## Recent Blogs:
 <!-- Dev.to:START -->
 - [Scroll to the top with JS](https://dev.to/j471n/scroll-to-the-top-with-js-lgm)
 - [Google Docs with Next.js](https://dev.to/j471n/google-docs-with-nextjs-2g0i)

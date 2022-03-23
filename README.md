@@ -11,9 +11,8 @@
 
 ![profile View](https://komarev.com/ghpvc/?username=j471n&color=green&style=flat-square&label=PROFILE+VIEWS)
 
-
-
 ## Languages and Tools
+  
 <img align="left" title="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding:5px;" />
 <img align="left" title="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding:5px;" />
 <img align="left" title="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding:5px;" />
@@ -29,7 +28,7 @@
 <img align="left" title="Nextjs" width="26px" style="padding:5px;" src="https://imgur.com/hPofQoP.png" />
 <img align="left" title="NextAuth" width="26px" style="padding:5px;" src="https://next-auth.js.org/img/logo/logo-sm.png"/>
 <img align="left" title="Firebase" width="26px" style="padding:5px;" src="https://i.imgur.com/ySmf4g5.png" />
-<img align="left" title="Sublime Text 3" width="26px" style="padding:5px;" src="https://pbs.twimg.com/media/DJnkUqqVoAAFGQO.png" />                                            
+<img align="left" title="Sublime Text 3" width="26px" style="padding:5px;" src="https://pbs.twimg.com/media/DJnkUqqVoAAFGQO.png" />                                       
 <img align="left" title="bootstrap" width="26px" style="padding:5px;" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>                    
 <img align="left" title="Git" width="26px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" title="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" style="padding:5px;" />
@@ -45,7 +44,6 @@
 <!-- Dev.to:END -->
 
 [more blogs...](https://dev.to/j471n)
-
 
 
 <details>

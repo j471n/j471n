@@ -9,7 +9,7 @@
     
 </p>
 
-![profile View](https://komarev.com/ghpvc/?username=j471n&color=green&style=flat-square&label=PROFILE+VIEWS)
+![Visitors](https://komarev.com/ghpvc/?username=j471n&color=green&style=flat-square&label=Visitors)
 
 ## Languages and Tools:
 
@@ -51,16 +51,25 @@
 
 <details>
   <summary>⚡ Github Stats</summary>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=j471n&show_icons=true&theme=dark&hide_border=true" alt="Jatin's Github Stats" />
 </details>
 
 <details>
   <summary>💹 Github Activity Graph</summary>
+  <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=j471n&theme=react-dark" alt="Jatin's Github Activity Graph" />
 </details>
 
 <details>
+  <summary>🏆 Github Trophies</summary>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=j471n&theme=nord" alt="Jatin's Github Activity Graph" />
+</details>
+
+<details>
   <summary>🖱️ Most used languages</summary>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=j471n&show_icons=true&locale=en&layout=compact&theme=dark" alt="Jatin's Github Activity Graph" />
 </details>
 

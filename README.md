@@ -29,6 +29,28 @@
   <img title="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />       
 </p>
 
+
+
+
+
+## Connect with me:
+
+<!-- <p> -->
+
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jatin47.47/) 
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/j471n_)
+[![devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/j471n#gh-light-mode-only)
+[![devto](https://img.shields.io/badge/dev.to-ffffff?style=for-the-badge&logo=devdotto&logoColor=black)](https://dev.to/j471n#gh-dark-mode-only)
+[![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/j471n#gh-light-mode-only)
+[![codepen](https://img.shields.io/badge/Codepen-ffffff?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/j471n#gh-dark-mode-only)
+[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j471n/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatinsharma8669@gmail.com)
+
+<!-- </p> -->
+
+
+<!-- <br> -->
+
 ## Recent Blogs:
 <!-- Dev.to:START -->
 - [Scroll to the top with JS](https://dev.to/j471n/scroll-to-the-top-with-js-lgm)

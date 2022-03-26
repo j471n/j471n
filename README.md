@@ -92,7 +92,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=j471n&show_icons=true&locale=en&layout=compact&theme=dark" alt="Jatin's Github Activity Graph" />
 </details>
 
-<br>
+<!-- <br> -->
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
+
+## Support me:
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](buymeacoffee.com/j471n)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/j47in)
+
 

@@ -53,11 +53,11 @@
 
 ## Recent Blogs:
 <!-- Dev.to:START -->
+- [Getting Stated with Bash](https://dev.to/j471n/getting-stated-with-bash-29m3)
 - [Scroll to the top with JS](https://dev.to/j471n/scroll-to-the-top-with-js-lgm)
 - [Google Docs with Next.js](https://dev.to/j471n/google-docs-with-nextjs-2g0i)
 - [JavaScript Cheat Sheet that you should bookmark](https://dev.to/j471n/javascript-cheat-sheet-you-needed-2id)
 - [Notification Panel](https://dev.to/j471n/notification-panel-50p6)
-- [6 ways to center a div](https://dev.to/j471n/6-ways-to-center-a-div-5fgj)
 <!-- Dev.to:END -->
 
 [more blogs...](https://dev.to/j471n)

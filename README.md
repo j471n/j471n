@@ -1,6 +1,8 @@
 ![Jatin's card name](https://cardivo.vercel.app/api?name=Jatin%20Sharma&description=I%27m+a+React+developer+from+Uttar+Pradesh%2C+India.+Who+also+code+in+Python+and+C%2B%2B.+%0D%0A+Passionate+towards+learning%2C+Reading%20and%20+coding.%0D%0A&image=https://avatars.githubusercontent.com/u/55713505?v=4.png&pattern=plus&opacity=0.05&backgroundColor=%23ecf0f1)
 
-![Visitors](https://komarev.com/ghpvc/?username=j471n&color=green&style=flat-square&label=Visitors)
+![Visitors](https://komarev.com/ghpvc/?username=j471n&label=Visitors)
+[![codechef](https://cp-logo.vercel.app/codechef/jatinsharma009)](https://www.codechef.com/users/jatinsharma009)
+[![codeforces](https://cp-logo.vercel.app/codeforces/jatinsharma089659)](https://codeforces.com/profile/jatinsharma089659)
 
 ## Languages and Tools:
 

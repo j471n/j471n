@@ -55,11 +55,11 @@
 
 ## Recent Blogs:
 <!-- Dev.to:START -->
+- [Paths &amp; Comments in Bash](https://dev.to/j471n/paths-comments-in-bash-2f0p)
 - [Chrome Extensions of the Month - April](https://dev.to/j471n/chrome-extensions-of-the-month-april-1nol)
 - [Create Bash Script &amp; File Permissions](https://dev.to/j471n/create-bash-script-file-permissions-4hoa)
 - [Getting Started with Bash](https://dev.to/j471n/getting-stated-with-bash-29m3)
 - [Scroll to the top with JS](https://dev.to/j471n/scroll-to-the-top-with-js-lgm)
-- [Google Docs with Next.js](https://dev.to/j471n/google-docs-with-nextjs-2g0i)
 <!-- Dev.to:END -->
 
 [more blogs...](https://dev.to/j471n)

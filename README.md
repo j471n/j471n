@@ -70,11 +70,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=j471n&show_icons=true&theme=dark&hide_border=true" alt="Jatin's Github Stats" />
 </details>
 
-<!-- <details>
+<details>
   <summary>💹 Github Activity Graph</summary>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=j471n&theme=react-dark" alt="Jatin's Github Activity Graph" />
-</details> -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=j471n&theme=react-dark" alt="Oops, something went wrong with Activity Graph" />
+</details>
 
 <details>
   <summary>🔥 GitHub Streak Stats</summary>

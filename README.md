@@ -55,11 +55,11 @@
 
 ## Recent Blogs:
 <!-- Dev.to:START -->
+- [Active Navbar with Next.js Routes](https://dev.to/j471n/active-navbar-with-nextjs-routes-k8l)
 - [Truncate String with CSS](https://dev.to/j471n/truncate-string-with-css-2oa3)
 - [Give me your git command](https://dev.to/j471n/give-me-your-git-command-2bj9)
 - [How to add RSS feed in Next.js Blog](https://dev.to/j471n/how-to-add-rss-feed-in-nextjs-blog-34j1)
 - [How to use Spotify API with Next.js](https://dev.to/j471n/how-to-use-spotify-api-with-nextjs-50o5)
-- [Paths &amp; Comments in Bash](https://dev.to/j471n/paths-comments-in-bash-2f0p)
 <!-- Dev.to:END -->
 
 [more blogs...](https://dev.to/j471n)

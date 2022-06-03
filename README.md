@@ -62,6 +62,10 @@
 - [How to add RSS feed in Next.js Blog](https://dev.to/j471n/how-to-add-rss-feed-in-nextjs-blog-34j1)
 <!-- Dev.to:END -->
 
+## Recent Github Activities
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 [more blogs...](https://dev.to/j471n)
 
 <details>

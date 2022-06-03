@@ -64,6 +64,11 @@
 
 ## Recent Github Activities
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#4](https://github.com/markodenic/public-apis/pull/4) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
+2. 💪 Opened PR [#3](https://github.com/markodenic/public-apis/pull/3) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
+3. 💪 Opened PR [#859](https://github.com/emmabostian/developer-portfolios/pull/859) in [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)
+4. 🎉 Merged PR [#1](https://github.com/j471n/basic-codes/pull/1) in [j471n/basic-codes](https://github.com/j471n/basic-codes)
+5. 💪 Opened PR [#1](https://github.com/j471n/basic-codes/pull/1) in [j471n/basic-codes](https://github.com/j471n/basic-codes)
 <!--END_SECTION:activity-->
 
 <details>

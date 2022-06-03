@@ -7,12 +7,12 @@ on:
   
 jobs:
   update-readme-with-devto-blogs  :
-    name: Update this repo's README with latest activity from StackOverflow
+    name: Update this repo's README with latest activity from Dev.to
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "Dev.to"
-          commit_message: "Updated readme with the latest Dev.to Post"
+          commit_message: "Updated README with the latest Dev.to Post"
           feed_list: "https://dev.to/feed/j471n"

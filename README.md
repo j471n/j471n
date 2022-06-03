@@ -66,8 +66,6 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-[more blogs...](https://dev.to/j471n)
-
 <details>
   <summary>⚡ Github Stats</summary>
   <br>

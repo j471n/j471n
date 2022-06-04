@@ -44,11 +44,11 @@
 
 ## Recent Blogs:
 <!-- Dev.to:START -->
+- [Preview File before uploading in React](https://dev.to/j471n/preview-file-before-uploading-in-react-27kn)
 - [Chrome Extensions of the Month - May](https://dev.to/j471n/extensions-of-the-month-may-2022-1lgc)
 - [Active Navbar with Next.js Routes](https://dev.to/j471n/active-navbar-with-nextjs-routes-k8l)
 - [Truncate String with CSS](https://dev.to/j471n/truncate-string-with-css-2oa3)
 - [Give me your git command](https://dev.to/j471n/give-me-your-git-command-2bj9)
-- [How to add RSS feed in Next.js Blog](https://dev.to/j471n/how-to-add-rss-feed-in-nextjs-blog-34j1)
 <!-- Dev.to:END -->
 
 ## Recent Github Activities

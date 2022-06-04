@@ -53,11 +53,11 @@
 
 ## Recent Github Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/markodenic/public-apis/issues/4) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
-2. 💪 Opened PR [#4](https://github.com/markodenic/public-apis/pull/4) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
-3. 💪 Opened PR [#3](https://github.com/markodenic/public-apis/pull/3) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
-4. 💪 Opened PR [#859](https://github.com/emmabostian/developer-portfolios/pull/859) in [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)
-5. 🎉 Merged PR [#1](https://github.com/j471n/basic-codes/pull/1) in [j471n/basic-codes](https://github.com/j471n/basic-codes)
+1. 💪 Opened PR [#5](https://github.com/markodenic/public-apis/pull/5) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
+2. 🗣 Commented on [#4](https://github.com/markodenic/public-apis/issues/4) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
+3. 💪 Opened PR [#4](https://github.com/markodenic/public-apis/pull/4) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
+4. 💪 Opened PR [#3](https://github.com/markodenic/public-apis/pull/3) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
+5. 💪 Opened PR [#859](https://github.com/emmabostian/developer-portfolios/pull/859) in [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)
 <!--END_SECTION:activity-->
 
 <details>

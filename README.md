@@ -44,11 +44,11 @@
 
 ## Recent Blogs:
 <!-- Dev.to:START -->
+- [CSS Battle: #3 - Push Button](https://dev.to/j471n/css-battle-3-push-button-567g)
 - [CSS Icon: Microsoft](https://dev.to/j471n/css-icon-microsoft-24l6)
 - [CSS Battle: #2 - Carrom](https://dev.to/j471n/css-battle-2-carrom-12bi)
 - [CSS Battle: #1 - Simply Square](https://dev.to/j471n/css-battle-1-pilot-battle-1fhh)
 - [Preview File before uploading in React](https://dev.to/j471n/preview-file-before-uploading-in-react-27kn)
-- [Chrome Extensions of the Month - May](https://dev.to/j471n/extensions-of-the-month-may-2022-1lgc)
 <!-- Dev.to:END -->
 
 ## Recent Github Activities

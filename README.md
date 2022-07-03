@@ -44,11 +44,11 @@
 
 ## Recent Blogs:
 <!-- Dev.to:START -->
+- [CSS Battle: #5 - Acid Rain](https://dev.to/j471n/css-battle-5-acid-rain-2kpe)
 - [Chrome Extensions of the Month - June](https://dev.to/j471n/chrome-extensions-of-the-month-june-b0i)
 - [CSS Battle: #4 - Ups n Downs](https://dev.to/j471n/css-battle-4-ups-n-downs-oap)
 - [CSS Battle: #3 - Push Button](https://dev.to/j471n/css-battle-3-push-button-567g)
 - [CSS Icon: Microsoft](https://dev.to/j471n/css-icon-microsoft-24l6)
-- [CSS Battle: #2 - Carrom](https://dev.to/j471n/css-battle-2-carrom-12bi)
 <!-- Dev.to:END -->
 
 ## Recent Github Activities

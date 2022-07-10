@@ -44,11 +44,11 @@
 
 ## Recent Blogs:
 <!-- Dev.to:START -->
+- [CSS Battle: #6 - Missing Slice](https://dev.to/j471n/css-battle-6-missing-slice-4836)
 - [IP Address &amp; Classes](https://dev.to/j471n/ip-address-classes-4fn8)
 - [CSS Battle: #5 - Acid Rain](https://dev.to/j471n/css-battle-5-acid-rain-2kpe)
 - [Chrome Extensions of the Month - June](https://dev.to/j471n/chrome-extensions-of-the-month-june-b0i)
 - [CSS Battle: #4 - Ups n Downs](https://dev.to/j471n/css-battle-4-ups-n-downs-oap)
-- [CSS Battle: #3 - Push Button](https://dev.to/j471n/css-battle-3-push-button-567g)
 <!-- Dev.to:END -->
 
 ## Recent Github Activities

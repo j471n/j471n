@@ -44,11 +44,11 @@
 
 ## Recent Blogs:
 <!-- Dev.to:START -->
+- [CSS Battle: #8 - Forking Crazy](https://dev.to/j471n/css-battle-8-forking-crazy-4obf)
 - [CSS Battle: #7 - Leafy Trail](https://dev.to/j471n/css-battle-7-leafy-trail-1198)
 - [CSS Icon: Android](https://dev.to/j471n/css-icon-android-4am8)
 - [CSS Battle: #6 - Missing Slice](https://dev.to/j471n/css-battle-6-missing-slice-4836)
 - [IP Address &amp; Classes](https://dev.to/j471n/ip-address-classes-4fn8)
-- [CSS Battle: #5 - Acid Rain](https://dev.to/j471n/css-battle-5-acid-rain-2kpe)
 <!-- Dev.to:END -->
 
 ## Recent Github Activities

@@ -44,11 +44,11 @@
 
 ## Recent Blogs:
 <!-- Dev.to:START -->
+- [CSS Battle: #10 - Cloaked Spirits](https://dev.to/j471n/css-battle-10-cloaked-spirits-1fe7)
 - [CSS Battle: #9 - Tesseract](https://dev.to/j471n/css-battle-9-tesseract-54nj)
 - [CSS Battle: #8 - Forking Crazy](https://dev.to/j471n/css-battle-8-forking-crazy-4obf)
 - [CSS Battle: #7 - Leafy Trail](https://dev.to/j471n/css-battle-7-leafy-trail-1198)
 - [CSS Icon: Android](https://dev.to/j471n/css-icon-android-4am8)
-- [CSS Battle: #6 - Missing Slice](https://dev.to/j471n/css-battle-6-missing-slice-4836)
 <!-- Dev.to:END -->
 
 ## Recent Github Activities

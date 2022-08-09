@@ -44,11 +44,11 @@
 
 ## Recent Blogs:
 <!-- Dev.to:START -->
+- [CSS Battle: #13 - Totally Triangle](https://dev.to/j471n/css-battle-13-totally-triangle-3cah)
 - [CSS Battle: #12 - Wiggly Moustache](https://dev.to/j471n/css-battle-12-wiggly-moustache-m75)
 - [CSS Battle: #11 - Eye of Sauron](https://dev.to/j471n/css-battle-11-eye-of-sauron-59pn)
 - [Chrome Extensions of the Month - July 2022](https://dev.to/j471n/chrome-extensions-of-the-month-july-2022-5alc)
 - [CSS Battle: #10 - Cloaked Spirits](https://dev.to/j471n/css-battle-10-cloaked-spirits-1fe7)
-- [CSS Battle: #9 - Tesseract](https://dev.to/j471n/css-battle-9-tesseract-54nj)
 <!-- Dev.to:END -->
 
 ## Recent Github Activities

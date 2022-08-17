@@ -46,11 +46,11 @@
 
 ## Recent Blogs:
 <!-- Dev.to:START -->
+- [Windows Commands CheatSheet you needed](https://dev.to/j471n/windows-commands-cheatsheet-you-needed-4191)
 - [CSS Flag: India](https://dev.to/j471n/css-flag-india-1bg3)
 - [CSS Icon: Google Pay](https://dev.to/j471n/css-icon-google-pay-ni5)
 - [CSS Battle: #13 - Totally Triangle](https://dev.to/j471n/css-battle-13-totally-triangle-3cah)
 - [CSS Battle: #12 - Wiggly Moustache](https://dev.to/j471n/css-battle-12-wiggly-moustache-m75)
-- [CSS Battle: #11 - Eye of Sauron](https://dev.to/j471n/css-battle-11-eye-of-sauron-59pn)
 <!-- Dev.to:END -->
 
 ## Recent Github Activities

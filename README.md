@@ -46,11 +46,11 @@
 
 ## Recent Blogs:
 <!-- Dev.to:START -->
+- [I made all countries&#39; flags using HTML &amp; CSS](https://dev.to/j471n/i-made-all-countries-flags-using-html-css-4cnc)
 - [CSS Battle: #14 - Web Maker Logo](https://dev.to/j471n/css-battle-14-web-maker-logo-2b1a)
 - [Windows Commands CheatSheet you needed](https://dev.to/j471n/windows-commands-cheatsheet-you-needed-4191)
 - [CSS Flag: India](https://dev.to/j471n/css-flag-india-1bg3)
 - [CSS Icon: Google Pay](https://dev.to/j471n/css-icon-google-pay-ni5)
-- [CSS Battle: #13 - Totally Triangle](https://dev.to/j471n/css-battle-13-totally-triangle-3cah)
 <!-- Dev.to:END -->
 
 ## Recent Github Activities

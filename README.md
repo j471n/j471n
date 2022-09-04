@@ -46,11 +46,11 @@
 
 ## Recent Blogs:
 <!-- Dev.to:START -->
+- [CSS Battle: #15 - Overlap](https://dev.to/j471n/css-battle-15-overlap-293i)
 - [Chrome Extensions of the Month - August 2022](https://dev.to/j471n/chrome-extensions-of-the-month-august-2022-5d8l)
 - [I made all countries&#39; flags using HTML &amp; CSS](https://dev.to/j471n/i-made-all-countries-flags-using-html-css-4cnc)
 - [CSS Battle: #14 - Web Maker Logo](https://dev.to/j471n/css-battle-14-web-maker-logo-2b1a)
 - [Windows Commands CheatSheet you needed](https://dev.to/j471n/windows-commands-cheatsheet-you-needed-4191)
-- [CSS Flag: India](https://dev.to/j471n/css-flag-india-1bg3)
 <!-- Dev.to:END -->
 
 ## Recent Github Activities

@@ -54,13 +54,9 @@
 <!-- Dev.to:END -->
 
 ## Recent Github Activities
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/markodenic/public-apis/issues/5) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
-2. ❗️ Opened issue [#488](https://github.com/leerob/leerob.io/issues/488) in [leerob/leerob.io](https://github.com/leerob/leerob.io)
-3. 💪 Opened PR [#5](https://github.com/markodenic/public-apis/pull/5) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
-4. 🗣 Commented on [#4](https://github.com/markodenic/public-apis/issues/4) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
-5. 💪 Opened PR [#4](https://github.com/markodenic/public-apis/pull/4) in [markodenic/public-apis](https://github.com/markodenic/public-apis)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 
 <details>
   <summary>⚡ Github Stats</summary>

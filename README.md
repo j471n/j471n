@@ -46,11 +46,11 @@
 
 ## Recent Blogs:
 <!-- Dev.to:START -->
+- [CSS Icon: Google Photos](https://dev.to/j471n/css-icon-google-photos-4iha)
 - [Detect When Users Switch Tabs using JavaScript](https://dev.to/j471n/detect-when-users-switch-tabs-using-javascript-3mi3)
 - [CSS Battle: #15 - Overlap](https://dev.to/j471n/css-battle-15-overlap-293i)
 - [Chrome Extensions of the Month - August 2022](https://dev.to/j471n/chrome-extensions-of-the-month-august-2022-5d8l)
 - [I made all countries&#39; flags using HTML &amp; CSS](https://dev.to/j471n/i-made-all-countries-flags-using-html-css-4cnc)
-- [CSS Battle: #14 - Web Maker Logo](https://dev.to/j471n/css-battle-14-web-maker-logo-2b1a)
 <!-- Dev.to:END -->
 
 ## Recent Github Activities

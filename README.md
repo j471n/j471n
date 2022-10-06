@@ -55,15 +55,15 @@
 
 ## Recent Github Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [j471n/j471n.in](https://github.com/j471n/j471n.in)
-2. ⬆️ Pushed 1 commit(s) to [j471n/j471n.in](https://github.com/j471n/j471n.in)
-3. ⬆️ Pushed 2 commit(s) to [j471n/j471n.in](https://github.com/j471n/j471n.in)
-4. ⬆️ Pushed 1 commit(s) to [j471n/j471n](https://github.com/j471n/j471n)
-5. ⬆️ Pushed 1 commit(s) to [j471n/j471n](https://github.com/j471n/j471n)
+1. ⬆️ Pushed 1 commit(s) to [j471n/goodsoup](https://github.com/j471n/goodsoup)
+2. ⬆️ Pushed 1 commit(s) to [j471n/goodsoup](https://github.com/j471n/goodsoup)
+3. ⬆️ Pushed 1 commit(s) to [j471n/goodsoup](https://github.com/j471n/goodsoup)
+4. ⬆️ Pushed 1 commit(s) to [j471n/goodsoup](https://github.com/j471n/goodsoup)
+5. ⬆️ Pushed 1 commit(s) to [j471n/goodsoup](https://github.com/j471n/goodsoup)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 5th, 2022, 12:15:42 PM
+Last Updated: Thursday, October 6th, 2022, 12:17:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details>

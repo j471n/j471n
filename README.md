@@ -55,15 +55,15 @@
 
 ## Recent Github Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [j471n/goodsoup](https://github.com/j471n/goodsoup)
+1. 💪 Opened PR [#2](https://github.com/jmrc1995/goodsoup/pull/2) in [jmrc1995/goodsoup](https://github.com/jmrc1995/goodsoup)
 2. ⬆️ Pushed 1 commit(s) to [j471n/goodsoup](https://github.com/j471n/goodsoup)
-3. ⬆️ Pushed 1 commit(s) to [j471n/goodsoup](https://github.com/j471n/goodsoup)
+3. 💪 Opened PR [#1](https://github.com/jmrc1995/goodsoup/pull/1) in [jmrc1995/goodsoup](https://github.com/jmrc1995/goodsoup)
 4. ⬆️ Pushed 1 commit(s) to [j471n/goodsoup](https://github.com/j471n/goodsoup)
 5. ⬆️ Pushed 1 commit(s) to [j471n/goodsoup](https://github.com/j471n/goodsoup)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 6th, 2022, 12:17:04 PM
+Last Updated: Friday, October 7th, 2022, 12:17:38 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details>

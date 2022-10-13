@@ -46,11 +46,11 @@
 
 ## Recent Blogs:
 <!-- Dev.to:START -->
+- [How I Made My Portfolio with Next.js](https://dev.to/j471n/how-i-made-my-portfolio-with-nextjs-2mn3)
 - [Chrome Extensions of the Month - September 2022](https://dev.to/j471n/chrome-extensions-of-the-month-september-2022-4cnh)
 - [CSS Icon: Google Photos](https://dev.to/j471n/css-icon-google-photos-4iha)
 - [Detect When Users Switch Tabs using JavaScript](https://dev.to/j471n/detect-when-users-switch-tabs-using-javascript-3mi3)
 - [CSS Battle: #15 - Overlap](https://dev.to/j471n/css-battle-15-overlap-293i)
-- [Chrome Extensions of the Month - August 2022](https://dev.to/j471n/chrome-extensions-of-the-month-august-2022-5d8l)
 <!-- Dev.to:END -->
 
 ## Recent Github Activities

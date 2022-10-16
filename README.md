@@ -55,15 +55,15 @@
 
 ## Recent Github Activities
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [j471n/j471n.in](https://github.com/j471n/j471n.in)
-2. ⬆️ Pushed 1 commit(s) to [j471n/jokes-generator](https://github.com/j471n/jokes-generator)
-3. ⬆️ Pushed 1 commit(s) to [j471n/j471n.in](https://github.com/j471n/j471n.in)
+1. ⭐ Starred [j471n/Hacker-Rank](https://github.com/j471n/Hacker-Rank)
+2. ⬆️ Pushed 1 commit(s) to [j471n/j471n.in](https://github.com/j471n/j471n.in)
+3. ⬆️ Pushed 1 commit(s) to [j471n/jokes-generator](https://github.com/j471n/jokes-generator)
 4. ⬆️ Pushed 1 commit(s) to [j471n/j471n.in](https://github.com/j471n/j471n.in)
-5. ⬆️ Pushed 7 commit(s) to [j471n/j471n.in](https://github.com/j471n/j471n.in)
+5. ⬆️ Pushed 1 commit(s) to [j471n/j471n.in](https://github.com/j471n/j471n.in)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 15th, 2022, 12:15:09 PM
+Last Updated: Sunday, October 16th, 2022, 12:14:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <details>

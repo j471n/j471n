@@ -96,8 +96,14 @@ Last Updated: Thursday, November 3rd, 2022, 12:14:06 PM
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=j471n&show_icons=true&locale=en&layout=compact&theme=dark" alt="Jatin's Github Activity Graph" />
 </details>
 
-<!-- <br> -->
+<details>
+  <summary>🏅 Holopin Board</summary>
+  <br>
+  <img src="https://holopin.me/j471n" alt="Holopin's Badges" />
+</details>
 
+
+<!-- <br> -->
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
 
 ## Support me:

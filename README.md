@@ -46,11 +46,11 @@
 
 ## Recent Blogs:
 <!-- Dev.to:START -->
+- [CSS Battle: #16 - Eye of the Tiger](https://dev.to/j471n/css-battle-16-eye-of-the-tiger-135d)
 - [Chrome Extensions of the Month - October 2022](https://dev.to/j471n/chrome-extensions-of-the-month-october-2022-1c0j)
 - [How I Made My Portfolio with Next.js](https://dev.to/j471n/how-i-made-my-portfolio-with-nextjs-2mn3)
 - [Chrome Extensions of the Month - September 2022](https://dev.to/j471n/chrome-extensions-of-the-month-september-2022-4cnh)
 - [CSS Icon: Google Photos](https://dev.to/j471n/css-icon-google-photos-4iha)
-- [Detect When Users Switch Tabs using JavaScript](https://dev.to/j471n/detect-when-users-switch-tabs-using-javascript-3mi3)
 <!-- Dev.to:END -->
 
 ## Recent Github Activities

@@ -46,11 +46,11 @@
 
 ## Recent Blogs:
 <!-- Dev.to:START -->
+- [How to Access Local Sever on Other Devices](https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1)
 - [CSS Battle: #16 - Eye of the Tiger](https://dev.to/j471n/css-battle-16-eye-of-the-tiger-135d)
 - [Chrome Extensions of the Month - October 2022](https://dev.to/j471n/chrome-extensions-of-the-month-october-2022-1c0j)
 - [How I Made My Portfolio with Next.js](https://dev.to/j471n/how-i-made-my-portfolio-with-nextjs-2mn3)
 - [Chrome Extensions of the Month - September 2022](https://dev.to/j471n/chrome-extensions-of-the-month-september-2022-4cnh)
-- [CSS Icon: Google Photos](https://dev.to/j471n/css-icon-google-photos-4iha)
 <!-- Dev.to:END -->
 
 ## Recent Github Activities

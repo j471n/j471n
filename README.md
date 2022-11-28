@@ -54,13 +54,8 @@
 <!-- Dev.to:END -->
 
 ## Recent Github Activities
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [j471n/j471n.in](https://github.com/j471n/j471n.in)
-2. ⬆️ Pushed 1 commit(s) to [j471n/j471n.in](https://github.com/j471n/j471n.in)
-3. ⬆️ Pushed 1 commit(s) to [j471n/j471n](https://github.com/j471n/j471n)
-4. ⬆️ Pushed 3 commit(s) to [j471n/j471n.in](https://github.com/j471n/j471n.in)
-5. ⬆️ Pushed 1 commit(s) to [j471n/j471n.in](https://github.com/j471n/j471n.in)
-<!--RECENT_ACTIVITY:end-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Sunday, November 27th, 2022, 12:11:04 PM

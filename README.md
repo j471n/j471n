@@ -46,11 +46,11 @@
 
 ## Recent Blogs:
 <!-- Dev.to:START -->
+- [Spotify Wrapped 2022](https://dev.to/j471n/spotify-wrapped-2022-3i7a)
 - [Chrome Extensions of the Month - November 2022](https://dev.to/j471n/chrome-extensions-of-the-month-november-2022-364k)
 - [How to Access Local Sever on Other Devices](https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1)
 - [CSS Battle: #16 - Eye of the Tiger](https://dev.to/j471n/css-battle-16-eye-of-the-tiger-135d)
 - [Chrome Extensions of the Month - October 2022](https://dev.to/j471n/chrome-extensions-of-the-month-october-2022-1c0j)
-- [How I Made My Portfolio with Next.js](https://dev.to/j471n/how-i-made-my-portfolio-with-nextjs-2mn3)
 <!-- Dev.to:END -->
 
 ## Recent Github Activities

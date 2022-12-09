@@ -47,11 +47,11 @@
 
 ## Recent Blogs:
 <!-- Dev.to:START -->
+- [Thank you 😍](https://dev.to/j471n/thank-you-2a33)
 - [How to Test GraphQL API](https://dev.to/j471n/how-to-test-graphql-api-161i)
 - [Spotify Wrapped 2022](https://dev.to/j471n/spotify-wrapped-2022-3i7a)
 - [Chrome Extensions of the Month - November 2022](https://dev.to/j471n/chrome-extensions-of-the-month-november-2022-364k)
 - [How to Access Local Sever on Other Devices](https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1)
-- [CSS Battle: #16 - Eye of the Tiger](https://dev.to/j471n/css-battle-16-eye-of-the-tiger-135d)
 <!-- Dev.to:END -->
 
 ## Recent Github Activities

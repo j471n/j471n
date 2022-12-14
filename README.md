@@ -56,9 +56,9 @@
 
 ## Recent Github Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/jmrc1995/goodsoup/issues/2) in [jmrc1995/goodsoup](https://github.com/jmrc1995/goodsoup)
-2. 💪 Opened PR [#2](https://github.com/jmrc1995/goodsoup/pull/2) in [jmrc1995/goodsoup](https://github.com/jmrc1995/goodsoup)
-3. 💪 Opened PR [#1](https://github.com/jmrc1995/goodsoup/pull/1) in [jmrc1995/goodsoup](https://github.com/jmrc1995/goodsoup)
+1. ❌ Closed PR [#252](https://github.com/timolins/react-hot-toast/pull/252) in [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast)
+2. 💪 Opened PR [#252](https://github.com/timolins/react-hot-toast/pull/252) in [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast)
+3. 🗣 Commented on [#2](https://github.com/jmrc1995/goodsoup/issues/2) in [jmrc1995/goodsoup](https://github.com/jmrc1995/goodsoup)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:last_update-->

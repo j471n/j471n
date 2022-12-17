@@ -56,9 +56,9 @@
 
 ## Recent Github Activities
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#252](https://github.com/timolins/react-hot-toast/pull/252) in [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast)
-2. 💪 Opened PR [#252](https://github.com/timolins/react-hot-toast/pull/252) in [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast)
-3. 🗣 Commented on [#2](https://github.com/jmrc1995/goodsoup/issues/2) in [jmrc1995/goodsoup](https://github.com/jmrc1995/goodsoup)
+1. 🗣 Commented on [#307](https://github.com/hashicorp/next-mdx-remote/issues/307) in [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote)
+2. ❌ Closed PR [#252](https://github.com/timolins/react-hot-toast/pull/252) in [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast)
+3. 💪 Opened PR [#252](https://github.com/timolins/react-hot-toast/pull/252) in [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:last_update-->

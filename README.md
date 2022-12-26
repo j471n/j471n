@@ -51,7 +51,7 @@
 - [Make Your Video Player Float Using PiP API](https://dev.to/j471n/make-your-video-player-float-using-pip-api-3l72)
 - [Revue Getting Shut down](https://dev.to/j471n/revue-getting-shut-down-4ajm)
 - [Thank you 😍](https://dev.to/j471n/thank-you-2a33)
-- [How to Test GraphQL API](https://dev.to/j471n/how-to-test-graphql-api-161i)
+- [How to Test GraphQL API?](https://dev.to/j471n/how-to-test-graphql-api-161i)
 <!-- Dev.to:END -->
 
 ## Recent Github Activities

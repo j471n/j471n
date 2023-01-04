@@ -48,11 +48,11 @@
 
 ## Recent Blogs:
 <!-- Dev.to:START -->
+- [Typescript: Functions](https://dev.to/j471n/typescript-functions-4nkp)
 - [Typescript: Types](https://dev.to/j471n/typescript-types-g4b)
 - [Typescript: Introduction](https://dev.to/j471n/typescript-introduction-7ie)
 - [Chrome Extensions of the Month - December 2022](https://dev.to/j471n/chrome-extensions-of-the-month-december-2022-29hp)
 - [Make Your Video Player Float Using PiP API](https://dev.to/j471n/make-your-video-player-float-using-pip-api-3l72)
-- [Revue Getting Shut down](https://dev.to/j471n/revue-getting-shut-down-4ajm)
 <!-- Dev.to:END -->
 
 ## Recent Github Activities

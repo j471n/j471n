@@ -57,9 +57,9 @@
 
 ## Recent Github Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/j471n/j471n.in/pull/16) in [j471n/j471n.in](https://github.com/j471n/j471n.in)
-2. 💪 Opened PR [#16](https://github.com/j471n/j471n.in/pull/16) in [j471n/j471n.in](https://github.com/j471n/j471n.in)
-3. 🗣 Commented on [#307](https://github.com/hashicorp/next-mdx-remote/issues/307) in [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote)
+1. 🎉 Merged PR [#17](https://github.com/j471n/j471n.in/pull/17) in [j471n/j471n.in](https://github.com/j471n/j471n.in)
+2. 🎉 Merged PR [#16](https://github.com/j471n/j471n.in/pull/16) in [j471n/j471n.in](https://github.com/j471n/j471n.in)
+3. 💪 Opened PR [#16](https://github.com/j471n/j471n.in/pull/16) in [j471n/j471n.in](https://github.com/j471n/j471n.in)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:last_update-->

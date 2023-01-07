@@ -75,7 +75,7 @@ Last Updated: Sunday, November 27th, 2022, 12:11:04 PM
 <details>
   <summary>💹 Github Activity Graph</summary>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=j471n&theme=react-dark" alt="Oops, something went wrong with Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=j471n&theme=react-dark" alt="Oops, something went wrong with Activity Graph" />
 </details>
 
 <details>

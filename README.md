@@ -48,11 +48,11 @@
 
 ## Recent Blogs:
 <!-- Dev.to:START -->
+- [10 Best Developer Swags for 2023](https://dev.to/j471n/10-best-developer-swags-for-2023-4oek)
 - [CSS Battle: #17 - Fidget Spinner](https://dev.to/j471n/css-battle-17-fidget-spinner-532d)
 - [Typescript: Functions](https://dev.to/j471n/typescript-functions-4nkp)
 - [Typescript: Types](https://dev.to/j471n/typescript-types-g4b)
 - [Typescript: Introduction](https://dev.to/j471n/typescript-introduction-7ie)
-- [Chrome Extensions of the Month - December 2022](https://dev.to/j471n/chrome-extensions-of-the-month-december-2022-29hp)
 <!-- Dev.to:END -->
 
 ## Recent Github Activities

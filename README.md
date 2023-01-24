@@ -48,11 +48,11 @@
 
 ## Recent Blogs:
 <!-- Dev.to:START -->
+- [Typescript: Type Aliases and Union](https://dev.to/j471n/typescript-type-aliases-1obl)
 - [Whose side are you on?](https://dev.to/j471n/whose-side-are-you-on-3h4)
 - [How to use Google Analytics Data API](https://dev.to/j471n/how-to-use-google-analytics-data-api-2133)
 - [10 Best Developer Swags for 2023](https://dev.to/j471n/10-best-developer-swags-for-2023-4oek)
 - [CSS Battle: #17 - Fidget Spinner](https://dev.to/j471n/css-battle-17-fidget-spinner-532d)
-- [Typescript: Functions](https://dev.to/j471n/typescript-functions-4nkp)
 <!-- Dev.to:END -->
 
 ## Recent Github Activities

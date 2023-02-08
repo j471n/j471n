@@ -48,11 +48,11 @@
 
 ## Recent Blogs:
 <!-- Dev.to:START -->
+- [Typescript: Array &amp; Tuples](https://dev.to/j471n/typescript-array-tuples-1kh2)
 - [My VS Code setup](https://dev.to/j471n/my-vs-code-setup-971)
 - [Chrome Extensions of the Month - January 2023](https://dev.to/j471n/chrome-extensions-of-the-month-january-2023-4agc)
 - [Typescript: Type Aliases and Union](https://dev.to/j471n/typescript-type-aliases-1obl)
 - [Whose side are you on?](https://dev.to/j471n/whose-side-are-you-on-3h4)
-- [How to use Google Analytics Data API](https://dev.to/j471n/how-to-use-google-analytics-data-api-2133)
 <!-- Dev.to:END -->
 
 ## Recent Github Activities

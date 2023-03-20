@@ -43,7 +43,7 @@
 [![devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/j471n#gh-light-mode-only)
 [![devto](https://img.shields.io/badge/dev.to-ffffff?style=for-the-badge&logo=devdotto&logoColor=black)](https://dev.to/j471n#gh-dark-mode-only)
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j471n/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatinsharma089659@gmail.com)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@j471n.in)
 
 
 ## Recent Blogs:

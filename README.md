@@ -48,11 +48,11 @@
 
 ## Recent Blogs:
 <!-- Dev.to:START -->
+- [NoSQL Databases vs Graph Databases: Which one should you use?](https://dev.to/documatic/nosql-databases-vs-graph-databases-which-one-should-you-use-4jpg)
 - [Graph Databases vs Relational Databases: What and why?](https://dev.to/documatic/graph-databases-vs-relational-databases-what-and-why-5d6g)
 - [Typescript: Enums](https://dev.to/j471n/typescript-enums-7d6)
 - [Chrome Extensions of the Month - February 2023](https://dev.to/j471n/chrome-extensions-of-the-month-february-2023-55do)
 - [Operating System and it&#39;s concepts](https://dev.to/j471n/operating-system-and-its-concepts-2oa4)
-- [Typescript: Array &amp; Tuples](https://dev.to/j471n/typescript-array-tuples-1kh2)
 <!-- Dev.to:END -->
 
 ## Recent Github Activities

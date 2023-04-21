@@ -48,7 +48,7 @@
 
 ## Recent Blogs:
 <!-- Dev.to:START -->
-- [VS Code Extensions to Take Your Coding to the Next Level](https://dev.to/documatic/vs-code-extensions-to-take-your-coding-to-the-next-level-50od)
+- [VS Code Extensions to Take Your Coding to the Next Level](https://dev.to/j471n/vs-code-extensions-to-take-your-coding-to-the-next-level-50od)
 - [NoSQL Databases vs Graph Databases: Which one should you use?](https://dev.to/documatic/nosql-databases-vs-graph-databases-which-one-should-you-use-4jpg)
 - [Graph Databases vs Relational Databases: What and why?](https://dev.to/documatic/graph-databases-vs-relational-databases-what-and-why-5d6g)
 - [Typescript: Enums](https://dev.to/j471n/typescript-enums-7d6)

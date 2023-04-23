@@ -57,7 +57,7 @@
 
 ## Recent Github Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1186](https://github.com/emmabostian/developer-portfolios/pull/1186) in [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)
+1. ❌ Closed PR [#1](https://github.com/j471n/react-keeper/pull/1) in [j471n/react-keeper](https://github.com/j471n/react-keeper)
 2. 🎉 Merged PR [#17](https://github.com/j471n/j471n.in/pull/17) in [j471n/j471n.in](https://github.com/j471n/j471n.in)
 3. 🎉 Merged PR [#16](https://github.com/j471n/j471n.in/pull/16) in [j471n/j471n.in](https://github.com/j471n/j471n.in)
 <!--END_SECTION:activity-->

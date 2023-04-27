@@ -57,9 +57,9 @@
 
 ## Recent Github Activities
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/j471n/react-keeper/pull/1) in [j471n/react-keeper](https://github.com/j471n/react-keeper)
-2. 🎉 Merged PR [#17](https://github.com/j471n/j471n.in/pull/17) in [j471n/j471n.in](https://github.com/j471n/j471n.in)
-3. 🎉 Merged PR [#16](https://github.com/j471n/j471n.in/pull/16) in [j471n/j471n.in](https://github.com/j471n/j471n.in)
+1. ❗️ Closed issue [#23](https://github.com/j471n/j471n.in/issues/23) in [j471n/j471n.in](https://github.com/j471n/j471n.in)
+2. ❗️ Closed issue [#24](https://github.com/j471n/j471n.in/issues/24) in [j471n/j471n.in](https://github.com/j471n/j471n.in)
+3. 🗣 Commented on [#23](https://github.com/j471n/j471n.in/issues/23) in [j471n/j471n.in](https://github.com/j471n/j471n.in)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:last_update-->

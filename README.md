@@ -22,7 +22,7 @@
   <img title="C" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img title="C++" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img title="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img title="Django" width="25px"  src="https://img.icons8.com/material-outlined/48/null/django.png#gh-light-mode-only" />
+  <img title="Django" width="25px"  src="https://img.icons8.com/material-outlined/48/000000/django.png#gh-light-mode-only" />
   <img title="Django" width="25px"  src="https://img.icons8.com/material-outlined/48/ffffff/django.png#gh-dark-mode-only" />
   <img title="SQLite" width="25px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
   <img title="TailwindCSS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />

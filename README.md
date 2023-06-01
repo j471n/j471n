@@ -59,8 +59,8 @@
 
 ## Recent Github Activities
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#23](https://github.com/j471n/j471n.in/issues/23) in [j471n/j471n.in](https://github.com/j471n/j471n.in)
-2. ❗️ Closed issue [#24](https://github.com/j471n/j471n.in/issues/24) in [j471n/j471n.in](https://github.com/j471n/j471n.in)
+1. 🔒 Closed issue [#23](https://github.com/j471n/j471n.in/issues/23) in [j471n/j471n.in](https://github.com/j471n/j471n.in)
+2. 🔒 Closed issue [#24](https://github.com/j471n/j471n.in/issues/24) in [j471n/j471n.in](https://github.com/j471n/j471n.in)
 3. 🗣 Commented on [#23](https://github.com/j471n/j471n.in/issues/23) in [j471n/j471n.in](https://github.com/j471n/j471n.in)
 <!--END_SECTION:activity-->
 

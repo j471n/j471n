@@ -50,11 +50,11 @@
 
 ## Recent Blogs:
 <!-- Dev.to:START -->
+- [Pair Programming: Best Practices and Tools](https://dev.to/documatic/pair-programming-best-practices-and-tools-154j)
 - [Simplify Your C# Code: Top 5 Refactoring Tools](https://dev.to/documatic/simplify-your-c-code-top-5-refactoring-tools-1bo0)
 - [The Art of Code Review](https://dev.to/documatic/the-art-of-code-review-1lo4)
 - [Typescript: Interface](https://dev.to/j471n/typescript-interface-3748)
 - [Redis Performance Tuning: How to Optimize Redis for High-Traffic Applications](https://dev.to/documatic/redis-performance-tuning-how-to-optimize-redis-for-high-traffic-applications-51km)
-- [VS Code Extensions to Take Your Coding to the Next Level](https://dev.to/j471n/vs-code-extensions-to-take-your-coding-to-the-next-level-50od)
 <!-- Dev.to:END -->
 
 ## Recent Github Activities

@@ -50,11 +50,11 @@
 
 ## Recent Blogs:
 <!-- Dev.to:START -->
+- [Top 10 Websites Every Developer Needs to Know About](https://dev.to/j471n/top-10-websites-every-developer-needs-to-know-about-f5j)
 - [Pair Programming: Best Practices and Tools](https://dev.to/documatic/pair-programming-best-practices-and-tools-154j)
 - [Simplify Your C# Code: Top 5 Refactoring Tools](https://dev.to/documatic/simplify-your-c-code-top-5-refactoring-tools-1bo0)
 - [The Art of Code Review](https://dev.to/documatic/the-art-of-code-review-1lo4)
 - [Typescript: Interface](https://dev.to/j471n/typescript-interface-3748)
-- [Redis Performance Tuning: How to Optimize Redis for High-Traffic Applications](https://dev.to/documatic/redis-performance-tuning-how-to-optimize-redis-for-high-traffic-applications-51km)
 <!-- Dev.to:END -->
 
 ## Recent Github Activities

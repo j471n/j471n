@@ -50,11 +50,11 @@
 
 ## Recent Blogs:
 <!-- Dev.to:START -->
+- [Level Up Your Web App with Stunning React Charts: Introducing the Top 10 React Charts Libraries](https://dev.to/adminmart/level-up-your-web-app-with-stunning-react-charts-introducing-the-top-10-react-charts-libraries-22p3)
 - [Chrome Extensions of the Month - July 2023](https://dev.to/j471n/chrome-extensions-of-the-month-july-2023-2ea3)
 - [The One Chrome Extension That Will Save You Hours](https://dev.to/j471n/the-one-chrome-extension-that-will-save-you-hours-27do)
 - [Code Reviewing a Ruby on Rails application.](https://dev.to/documatic/code-reviewing-a-ruby-on-rails-application-plm)
 - [Top 10 Websites Every Developer Needs to Know About](https://dev.to/j471n/top-10-websites-every-developer-needs-to-know-about-f5j)
-- [Pair Programming: Best Practices and Tools](https://dev.to/documatic/pair-programming-best-practices-and-tools-154j)
 <!-- Dev.to:END -->
 
 ## Recent Github Activities

@@ -50,11 +50,11 @@
 
 ## Recent Blogs:
 <!-- Dev.to:START -->
+- [Discover Simplicity and Fun in Tech with Dev Hots on LinkedIn!](https://dev.to/j471n/discover-simplicity-and-fun-in-tech-with-dev-hots-on-linkedin-51l8)
 - [Data Encryption: Securing Data at Rest and in Transit with Encryption Technologies](https://dev.to/documatic/data-encryption-securing-data-at-rest-and-in-transit-with-encryption-technologies-1lc2)
 - [Security in Code Reviews: Ensuring Secure and Robust Software Development](https://dev.to/documatic/security-in-code-reviews-ensuring-secure-and-robust-software-development-17kp)
 - [Level Up Your Web App with Stunning React Charts: Introducing the Top 10 React Charts Libraries](https://dev.to/adminmart/level-up-your-web-app-with-stunning-react-charts-introducing-the-top-10-react-charts-libraries-22p3)
 - [Chrome Extensions of the Month - July 2023](https://dev.to/j471n/chrome-extensions-of-the-month-july-2023-2ea3)
-- [The One Chrome Extension That Will Save You Hours](https://dev.to/j471n/the-one-chrome-extension-that-will-save-you-hours-27do)
 <!-- Dev.to:END -->
 
 ## Recent Github Activities

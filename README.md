@@ -59,9 +59,9 @@
 
 ## Recent Github Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/devhots/CodeGlossary/pull/2#issuecomment-1694701950) in [devhots/CodeGlossary](https://github.com/devhots/CodeGlossary)
-2. 🗣 Commented on [#350](https://github.com/hashicorp/next-mdx-remote/issues/350#issuecomment-1611808394) in [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote)
-3. 🔒 Closed issue [#24](https://github.com/j471n/j471n.in/issues/24) in [j471n/j471n.in](https://github.com/j471n/j471n.in)
+1. ❗ Opened issue [#4](https://github.com/devhots/CodeGlossary/issues/4) in [devhots/CodeGlossary](https://github.com/devhots/CodeGlossary)
+2. ❗ Opened issue [#3](https://github.com/devhots/CodeGlossary/issues/3) in [devhots/CodeGlossary](https://github.com/devhots/CodeGlossary)
+3. 🎉 Merged PR [#2](https://github.com/devhots/CodeGlossary/pull/2) in [devhots/CodeGlossary](https://github.com/devhots/CodeGlossary)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:last_update-->

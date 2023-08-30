@@ -59,9 +59,9 @@
 
 ## Recent Github Activities
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/devhots/CodeGlossary/issues/4) in [devhots/CodeGlossary](https://github.com/devhots/CodeGlossary)
-2. ❗ Opened issue [#3](https://github.com/devhots/CodeGlossary/issues/3) in [devhots/CodeGlossary](https://github.com/devhots/CodeGlossary)
-3. 🎉 Merged PR [#2](https://github.com/devhots/CodeGlossary/pull/2) in [devhots/CodeGlossary](https://github.com/devhots/CodeGlossary)
+1. 🗣 Commented on [#5](https://github.com/devhots/CodeGlossary/pull/5#issuecomment-1698647172) in [devhots/CodeGlossary](https://github.com/devhots/CodeGlossary)
+2. 🎉 Merged PR [#5](https://github.com/devhots/CodeGlossary/pull/5) in [devhots/CodeGlossary](https://github.com/devhots/CodeGlossary)
+3. 🗣 Commented on [#6](https://github.com/devhots/CodeGlossary/pull/6#issuecomment-1698622409) in [devhots/CodeGlossary](https://github.com/devhots/CodeGlossary)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:last_update-->

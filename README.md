@@ -59,8 +59,8 @@
 
 ## Recent Github Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#97](https://github.com/ln-dev7/world-portfolios/pull/97) in [ln-dev7/world-portfolios](https://github.com/ln-dev7/world-portfolios)
-2. 🗣 Commented on [#25](https://github.com/j471n/j471n.in/issues/25#issuecomment-1718383866) in [j471n/j471n.in](https://github.com/j471n/j471n.in)
+1. 🎉 Merged PR [#33](https://github.com/j471n/j471n.in/pull/33) in [j471n/j471n.in](https://github.com/j471n/j471n.in)
+2. 💪 Opened PR [#33](https://github.com/j471n/j471n.in/pull/33) in [j471n/j471n.in](https://github.com/j471n/j471n.in)
 3. 🗣 Commented on [#25](https://github.com/j471n/j471n.in/issues/25#issuecomment-1717516327) in [j471n/j471n.in](https://github.com/j471n/j471n.in)
 <!--END_SECTION:activity-->
 

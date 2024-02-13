@@ -59,9 +59,9 @@
 
 ## Recent Github Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/j471n/j471n.in/pull/33) in [j471n/j471n.in](https://github.com/j471n/j471n.in)
-2. 💪 Opened PR [#33](https://github.com/j471n/j471n.in/pull/33) in [j471n/j471n.in](https://github.com/j471n/j471n.in)
-3. 🗣 Commented on [#25](https://github.com/j471n/j471n.in/issues/25#issuecomment-1717516327) in [j471n/j471n.in](https://github.com/j471n/j471n.in)
+1. 🎉 Merged PR [#32](https://github.com/j471n/j471n.in/pull/32) in [j471n/j471n.in](https://github.com/j471n/j471n.in)
+2. 🎉 Merged PR [#33](https://github.com/j471n/j471n.in/pull/33) in [j471n/j471n.in](https://github.com/j471n/j471n.in)
+3. 💪 Opened PR [#33](https://github.com/j471n/j471n.in/pull/33) in [j471n/j471n.in](https://github.com/j471n/j471n.in)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:last_update-->

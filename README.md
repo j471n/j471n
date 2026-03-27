@@ -73,11 +73,11 @@ Send memes, code snippets, or just say hi. I answer all three!
 ## ✍️ Recent Blog Posts
 
 <!-- Dev.to:START -->
+- [How to Find a User&#39;s Rank Based on Points Using Django ORM](https://dev.to/j471n/how-to-find-a-users-rank-based-on-points-using-django-orm-43ce)
 - [The Future of Cloud Computing: Predictions and Trends](https://dev.to/documatic/the-future-of-cloud-computing-predictions-and-trends-4j2m)
 - [AI in Software Testing: Revolutionizing Quality Assurance](https://dev.to/documatic/ai-in-software-testing-revolutionizing-quality-assurance-4fcg)
 - [What is Asynchronous Programming in JavaScript?](https://dev.to/devhots/what-is-asynchronous-programming-in-javascript-215k)
 - [Introducing CodeGlossary: Your Go-To Resource for Programming Terminology](https://dev.to/j471n/introducing-codeglossary-your-go-to-resource-for-programming-terminology-22ml)
-- [Demystifying Agile Methodology: A Comprehensive Guide for Everyone](https://dev.to/documatic/demystifying-agile-methodology-a-comprehensive-guide-for-everyone-119i)
 <!-- Dev.to:END -->
 
 ---

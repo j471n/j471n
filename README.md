@@ -85,8 +85,8 @@ Send memes, code snippets, or just say hi. I answer all three!
 ## 🦸 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1448](https://github.com/emmabostian/developer-portfolios/pull/1448) in [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)
-2. 🎉 Merged PR [#1](https://github.com/j471n/developer-portfolios/pull/1) in [j471n/developer-portfolios](https://github.com/j471n/developer-portfolios)
+1. 🎉 Merged PR [#34](https://github.com/j471n/j471n.in/pull/34) in [j471n/j471n.in](https://github.com/j471n/j471n.in)
+2. 💪 Opened PR [#34](https://github.com/j471n/j471n.in/pull/34) in [j471n/j471n.in](https://github.com/j471n/j471n.in)
 3. 🎉 Merged PR [#32](https://github.com/j471n/j471n.in/pull/32) in [j471n/j471n.in](https://github.com/j471n/j471n.in)
 <!--END_SECTION:activity-->
 

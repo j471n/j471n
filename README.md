@@ -1,11 +1,3 @@
-![Banner](/banner.png)
-
-
-
-![Visitors](https://komarev.com/ghpvc/?username=j471n&label=Visitors&style=for-the-badge)
-
----
-
 # Hi, I'm Jatin Sharma! 👋
 
 Welcome to my digital playground! If you’ve landed here, you either clicked the wrong link or you’re about to have a great time—either way, let’s make it worth your while. 🚀
@@ -15,6 +7,8 @@ Welcome to my digital playground! If you’ve landed here, you either clicked th
 - Full-stack developer, caffeine enthusiast, and professional bug creator (sometimes even fixer).
 - I love to build cool stuff, break it, and then pretend I was “testing edge cases.”
 - Code is my second language. First is sarcasm 🤓.
+
+![Visitors](https://komarev.com/ghpvc/?username=j471n&label=Visitors&style=for-the-badge)
 
 ## 🚀 Languages & Tools
 

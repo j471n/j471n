@@ -101,7 +101,7 @@ _Last updated: Friday, September 28th, 2025, 13:22:04_
 <details>
   <summary>💹 Activity Graph</summary>
   <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=j471n&theme=react-dark" alt="Oops, something went wrong with Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=j471n&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="GitHub Streak Stats" />
 </details>
 
 <details>

@@ -1,146 +1,211 @@
-# Hi, I'm Jatin Sharma! 👋
+<div align="center">
 
-Welcome to my digital playground! If you’ve landed here, you either clicked the wrong link or you’re about to have a great time—either way, let’s make it worth your while. 🚀
+# Jatin Sharma
 
-## 🧑‍💻 About Me
+### `Engineering Manager` · `Full-Stack Engineer` · `Product Builder`
 
-- Full-stack developer, caffeine enthusiast, and professional bug creator (sometimes even fixer).
-- I love to build cool stuff, break it, and then pretend I was “testing edge cases.”
-- Code is my second language. First is sarcasm 🤓.
+Building products, platforms and engineering systems where
+**product × architecture × automation × scale** intersect.
 
-![Visitors](https://komarev.com/ghpvc/?username=j471n&label=Visitors&style=for-the-badge)
+Currently building & leading engineering at **[KonnectNXT](https://konnectnxt.com)**.
 
-## 🚀 Languages & Tools
+<br/>
 
-<p>
-  <!-- IDEs -->
-  <img title="Visual Studio Code" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img title="Sublime Text 3" width="28px" src="https://pbs.twimg.com/media/DJnkUqqVoAAFGQO.png" />
-  <!-- Frontend -->
-  <img title="HTML5" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img title="CSS3" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img title="Sass" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img title="TailwindCSS" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img title="Bootstrap" width="28px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-  <!-- JS -->
-  <img title="JavaScript" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img title="Typescript" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <!-- Frameworks -->
-  <img title="React" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img title="Next.js" width="28px" src="https://imgur.com/hPofQoP.png" />
-  <img title="NextAuth" width="28px" src="https://next-auth.js.org/img/logo/logo-sm.png"/>
-  <!-- Backend -->
-  <img title="Node.js" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img title="Python" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img title="Django" width="28px" src="https://img.icons8.com/material-outlined/48/000000/django.png#gh-light-mode-only" />
-  <img title="Django" width="28px" src="https://img.icons8.com/material-outlined/48/ffffff/django.png#gh-dark-mode-only" />
-  <!-- Databases -->
-  <img title="MySQL" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img title="SQLite" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-  <img title="Firebase" width="28px" src="https://i.imgur.com/ySmf4g5.png" />
-  <img title="Supabase" width="28px" src="https://imgur.com/xgNKVQa.png" />
-  <!-- Git & GitHub -->
-  <img title="Git" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img title="GitHub" width="28px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" />
-  <img title="GitHub" width="28px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" /> 
-  <!-- Design -->
-  <img title="Figma" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
-  <!-- Other Languages -->
-  <img title="C" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img title="C++" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-</p>
+[![Portfolio](https://img.shields.io/badge/j471n.in-0D1117?style=for-the-badge\&logo=vercel\&logoColor=white)](https://j471n.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge\&logo=linkedin\&logoColor=0A66C2)](https://linkedin.com/in/j471n)
+[![DEV](https://img.shields.io/badge/DEV.to-0D1117?style=for-the-badge\&logo=devdotto\&logoColor=white)](https://dev.to/j471n)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge\&logo=gmail\&logoColor=EA4335)](mailto:me@j471n.in)
 
-> If you spot a tool I don't know, please send help (or a tutorial link).
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=j471n\&label=PROFILE+VIEWS\&style=flat-square\&color=238636)
+
+</div>
 
 ---
 
-## 🤝 Let's Connect & Make the Internet Cooler
+## `> whoami`
 
-[![Dev.to](https://img.shields.io/badge/dev.to-ffffff?style=for-the-badge&logo=devdotto&logoColor=black)](https://dev.to/j471n#gh-dark-mode-only)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j471n/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@j471n.in)
+```ts
+const jatin = {
+  role: "Engineering Manager",
+  company: "KonnectNXT",
 
-Send memes, code snippets, or just say hi. I answer all three!
+  builds: [
+    "scalable products",
+    "backend systems",
+    "APIs & platforms",
+    "mobile applications",
+    "AI-powered workflows",
+    "cloud infrastructure",
+  ],
+
+  caresAbout: [
+    "architecture",
+    "reliability",
+    "automation",
+    "developer experience",
+    "engineering teams",
+  ],
+
+  stillWritesCode: true,
+
+  philosophy: "Build → Ship → Observe → Improve → Scale",
+};
+```
+
+I work across the entire engineering stack — from **product decisions and architecture** to APIs, frontend, mobile, infrastructure, deployments and engineering leadership.
+
+I like solving problems that don't fit neatly inside one layer.
 
 ---
 
-## ✍️ Recent Blog Posts
+## `// currently`
+
+```text
+Architecture       → scalable systems, APIs & workflows
+Product            → web, mobile & platform engineering
+Backend            → Django, integrations & async systems
+Infrastructure     → GCP, Docker, CI/CD & observability
+AI                 → agents, automation & intelligent workflows
+Leadership         → architecture, mentoring & engineering strategy
+```
+
+A lot of my current work revolves around **digital trust, identity, verification infrastructure, workflow automation and AI-powered products**.
+
+---
+
+## `// stack`
+
+### Application
+
+[![Application Stack](https://skillicons.dev/icons?i=py,django,ts,js,react,nextjs,nodejs,tailwind,redux,vite\&theme=dark)](https://skillicons.dev)
+
+### Data & Infrastructure
+
+[![Infrastructure Stack](https://skillicons.dev/icons?i=mysql,postgres,redis,sqlite,gcp,docker,nginx,githubactions,linux,bash\&theme=dark)](https://skillicons.dev)
+
+### Tools
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,npm\&theme=dark)](https://skillicons.dev)
+
+```text
+Django REST Framework  ·  React Native / Expo
+Redux Toolkit          ·  TanStack Query
+Google Cloud Storage   ·  Cloud SQL
+REST APIs              ·  JWT / OAuth
+CI/CD                  ·  System Design
+```
+
+---
+
+## `// engineering`
+
+```text
+                        PRODUCT
+                           │
+                           ▼
+                     ARCHITECTURE
+                           │
+             ┌─────────────┼─────────────┐
+             ▼             ▼             ▼
+         FRONTEND       BACKEND         DATA
+             │             │             │
+             └─────────────┼─────────────┘
+                           ▼
+                    INFRASTRUCTURE
+                           │
+                           ▼
+                     OBSERVABILITY
+                           │
+                           ▼
+                  LEARN → ITERATE → SCALE
+```
+
+I try to optimize for:
+
+`readable > clever`
+
+`reliable > impressive`
+
+`automated > repetitive`
+
+`observable > mysterious`
+
+`systems > patches`
+
+---
+
+## `// writing`
+
+I also write about software engineering, backend development, web technologies, architecture and things I learn while building products.
 
 <!-- Dev.to:START -->
-- [I Rewrote My Portfolio From Scratch — Here&#39;s What Actually Changed &lpar;And Why&rpar;](https://dev.to/j471n/i-rewrote-my-portfolio-from-scratch-heres-what-actually-changed-and-why-1m0g)
-- [How to Find a User&#39;s Rank Based on Points Using Django ORM](https://dev.to/j471n/how-to-find-a-users-rank-based-on-points-using-django-orm-43ce)
-- [The Future of Cloud Computing: Predictions and Trends](https://dev.to/documatic/the-future-of-cloud-computing-predictions-and-trends-4j2m)
-- [AI in Software Testing: Revolutionizing Quality Assurance](https://dev.to/documatic/ai-in-software-testing-revolutionizing-quality-assurance-4fcg)
-- [What is Asynchronous Programming in JavaScript?](https://dev.to/devhots/what-is-asynchronous-programming-in-javascript-215k)
+
+* [I Rewrote My Portfolio From Scratch — Here's What Actually Changed (And Why)](https://dev.to/j471n/i-rewrote-my-portfolio-from-scratch-heres-what-actually-changed-and-why-1m0g)
+* [How to Find a User's Rank Based on Points Using Django ORM](https://dev.to/j471n/how-to-find-a-users-rank-based-on-points-using-django-orm-43ce)
+* [The Future of Cloud Computing: Predictions and Trends](https://dev.to/documatic/the-future-of-cloud-computing-predictions-and-trends-4j2m)
+* [AI in Software Testing: Revolutionizing Quality Assurance](https://dev.to/documatic/ai-in-software-testing-revolutionizing-quality-assurance-4fcg)
+* [What is Asynchronous Programming in JavaScript?](https://dev.to/devhots/what-is-asynchronous-programming-in-javascript-215k)
+
 <!-- Dev.to:END -->
+
+<div align="right">
+
+[**More writing →**](https://j471n.in/blogs)
+
+</div>
 
 ---
 
-## 🦸 Recent Github Activity
+## `// github.telemetry`
+
+<div align="center">
+
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=j471n&theme=github_dark" />
+
+<br/>
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=j471n&theme=github_dark" />
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=j471n&theme=github_dark" />
+
+</div>
+
+---
+
+## `// recent.activity`
 
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#34](https://github.com/j471n/j471n.in/pull/34) in [j471n/j471n.in](https://github.com/j471n/j471n.in)
 2. 💪 Opened PR [#34](https://github.com/j471n/j471n.in/pull/34) in [j471n/j471n.in](https://github.com/j471n/j471n.in)
 3. 🎉 Merged PR [#32](https://github.com/j471n/j471n.in/pull/32) in [j471n/j471n.in](https://github.com/j471n/j471n.in)
+
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:last_update-->
-_Last updated: Friday, September 28th, 2025, 13:22:04_  
+
+*Last updated: Friday, September 28th, 2025, 13:22:04*
+
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
 
-## 📈 The Fun Part: Stats, Graphs & More
+<div align="center">
 
-<details>
-  <summary>⚡ Github Stats</summary>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=j471n&show_icons=true&theme=dark&hide_border=true" alt="Jatin's Github Stats" />
-</details>
+### `build things that have to work beyond the demo.`
 
-<details>
-  <summary>💹 Activity Graph</summary>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=j471n&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="GitHub Streak Stats" />
-</details>
+<br/>
 
-<details>
-  <summary>🔥 Github Streak</summary>
-  <br>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=j471n&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
-</details>
+**[j471n.in](https://j471n.in)** ·
+**[LinkedIn](https://linkedin.com/in/j471n)** ·
+**[DEV](https://dev.to/j471n)** ·
+**[GitHub](https://github.com/j471n)**
 
-<details>
-  <summary>🏆 Trophies</summary>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=j471n&theme=nord" alt="Jatin's Github Trophies" />
-</details>
+<br/><br/>
 
-<details>
-  <summary>🖱️ Most Used Languages</summary>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=j471n&show_icons=true&locale=en&layout=compact&theme=dark" alt="Jatin's Languages" />
-</details>
+```text
+jatin@github:~$ building...
+```
 
-<details>
-  <summary>🏅 Holopin Board</summary>
-  <br>
-  <img src="https://holopin.me/j471n" alt="Holopin's Badges" />
-</details>
-
----
-
-## ☕ Support me (and my caffeine addiction)
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/j471n) 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/j47in)
-
-> Coding is hard. Coffee is harder. Support both!
-
----
-
-<p align="center">
-  <b>Thanks for visiting! May your code always compile on the first try. (But if it doesn't, you know where to find me.)</b>
-</p>
-
-<!-- P.S. I once had a bug so sneaky, it fixed itself when I added a comment. True story. -->
+</div>
